@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- resources -->
+<resources>
+
+    <!-- app -->
+    <string name="app_name">My Imgur Photo Gallery</string>
+
+    <!-- alert_dialog -->
+    <string name="alert_dialog_button_ok">OK</string>
+    <string name="alert_dialog_button_cancel">Cancel</string>
+
+    <!-- gallery_activity -->
+    <string name="gallery_activity_label">My Gallery</string>
+    <string name="gallery_activity_gallery_empty">No photos in your gallery</string>
+
+    <!-- gallery_item -->
+    <string name="gallery_item_ivPhoto_contentDescription">Photo</string>
+
+    <!-- login_activity -->
+    <string name="login_activity_label">Login</string>
+
+    <!-- menu -->
+    <string name="menu_action_logout">Logout</string>
+    <string name="menu_action_powered_by">Powered by</string>
+
+    <!-- message -->
+    <string name="message_delete_image_confirmation">Do you really want to delete this image?</string>
+    <string name="message_error_capturing_image">Capturing image error</string>
+    <string name="message_error_deleting_image">Deleting image error</string>
+    <string name="message_error_getting_gallery">Gallery error. Please, try again</string>
+    <string name="message_error_login">Login error</string>
+    <string name="message_error_network">Verify your Internet connection</string>
+    <string name="message_error_network_authentication_failure">Authentication failure</string>
+    <string name="message_error_network_parse">Parsing failure</string>
+    <string name="message_error_network_server">Server out of service</string>
+    <string name="message_error_network_timeout">Server timeout exceeded</string>
+    <string name="message_error_uploading_image">Uploading image error</string>
+    <string name="message_image_deleted">Image deleted correctly</string>
+    <string name="message_image_uploaded">Image uploaded correctly</string>
+
+    <!-- splash_screen_activity -->
+    <string name="splash_screen_activity_tvPoweredBy_text">Powered by dlebal</string>
+
+</resources>

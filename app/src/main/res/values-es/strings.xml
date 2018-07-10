@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- resources -->
+<resources>
+
+    <!-- app -->
+    <string name="app_name">My Imgur Photo Gallery</string>
+
+    <!-- alert_dialog -->
+    <string name="alert_dialog_button_ok">OK</string>
+    <string name="alert_dialog_button_cancel">Cancelar</string>
+
+    <!-- gallery_activity -->
+    <string name="gallery_activity_label">Mi Galería</string>
+    <string name="gallery_activity_gallery_empty">No hay fotos en tu galería</string>
+
+    <!-- gallery_item -->
+    <string name="gallery_item_ivPhoto_contentDescription">Foto</string>
+
+    <!-- login_activity -->
+    <string name="login_activity_label">Login</string>
+
+    <!-- menu -->
+    <string name="menu_action_logout">Cerrar sesión</string>
+    <string name="menu_action_powered_by">Powered by</string>
+
+    <!-- message -->
+    <string name="message_delete_image_confirmation">¿Realmente quieres borrar esta imagen?</string>
+    <string name="message_error_capturing_image">Error al capturar imagen</string>
+    <string name="message_error_deleting_image">Error al borrar la imagen</string>
+    <string name="message_error_getting_gallery">Error al obtener la galería</string>
+    <string name="message_error_login">Error al iniciar sesión</string>
+    <string name="message_error_network">Verifica tu conexión a Internet</string>
+    <string name="message_error_network_authentication_failure">Error de autenticación</string>
+    <string name="message_error_network_parse">Error de parseo</string>
+    <string name="message_error_network_server">Servidor fuera de servicio</string>
+    <string name="message_error_network_timeout">Tiempo de espera del servidor agotado</string>
+    <string name="message_error_uploading_image">Error al subir imagen</string>
+    <string name="message_image_deleted">Imagen borrada correctamente</string>
+    <string name="message_image_uploaded">Imagen subida correctamente</string>
+
+    <!-- splash_screen_activity -->
+    <string name="splash_screen_activity_tvPoweredBy_text">Powered by dlebal</string>
+
+</resources>

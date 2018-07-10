@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- resources -->
+<resources
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:ignore="MissingTranslation">
+
+    <!-- imgur -->
+    <string name="imgur_access_token_key">IMGUR_ACCESS_TOKEN_KEY</string>
+    <string name="imgur_access_token_default_value" />
+    <string name="imgur_refresh_token_key">IMGUR_REFRESH_TOKEN_KEY</string>
+    <string name="imgur_refresh_token_default_value" />
+    <string name="imgur_expires_in_key">IMGUR_EXPIRES_IN_KEY</string>
+    <string name="imgur_expires_in_default_value" />
+
+</resources>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- resources -->
+<resources>
+
+    <!-- activity -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <!-- gallery_activity -->
+    <dimen name="gallery_activity_fabAddPhoto_layout_margin">16dp</dimen>
+
+    <!-- gallery_item -->
+    <dimen name="gallery_item_ivPhoto_layout_margin">5dp</dimen>
+    <dimen name="gallery_item_bDeletePhoto_layout_width">30dp</dimen>
+    <dimen name="gallery_item_bDeletePhoto_layout_height">30dp</dimen>
+    <dimen name="gallery_item_bDeletePhoto_layout_margin">8dp</dimen>
+
+    <!-- login_activity -->
+    <dimen name="login_activity_pbProgress_elevation">1dp</dimen>
+
+    <!-- splash_screen_activity -->
+    <dimen name="splash_screen_activity_ivLogo_padding">20dp</dimen>
+    <dimen name="splash_screen_activity_tvPoweredBy_textSize">12sp</dimen>
+    <dimen name="splash_screen_activity_tvTitle_textSize">30sp</dimen>
+
+</resources>

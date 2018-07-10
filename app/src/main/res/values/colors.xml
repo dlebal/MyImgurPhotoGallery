@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- resources -->
+<resources>
+
+    <!-- Base application colors -->
+    <color name="colorPrimary">#232323</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#df0030</color>
+
+    <!-- color -->
+    <color name="colorError">#ff0000</color>
+    <color name="colorSuccess">#00ff00</color>
+
+</resources>
